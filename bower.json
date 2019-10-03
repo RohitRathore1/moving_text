@@ -1,0 +1,53 @@
+{
+
+  "name": "funnyText.js",
+
+  "homepage": "",
+
+  "authors": [
+
+    "Rohit Rathore"
+
+  ],
+
+  "description": "Create funny and crazy moving texts in a simple way.",
+
+  "main": [
+
+    "jquery.funnyText.min.js",
+
+    "jquery.funnyText.css"
+
+  ],
+
+  "keywords": [
+
+    "website",
+
+    "template",
+
+    "funny",
+
+    "text",
+
+    "javascript"
+
+  ],
+
+  "ignore": [
+
+    "**/.*",
+
+    "node_modules",
+
+    "bower_components"
+
+  ],
+
+  "dependencies": {
+
+    "jquery": "1.11.1"
+
+  }
+
+}
